@@ -27,6 +27,7 @@ public class tugas2 {
         System.out.println("1. Volume");
         System.out.println("2. Luas Permukaan");
         System.out.println("3. Keliling");
+        System.out.println("4. Keluar");
         System.out.print("Pilih Menu :");
         int menu = sc.nextInt();
         switch (menu) {
